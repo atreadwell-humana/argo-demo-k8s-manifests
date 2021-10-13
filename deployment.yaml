@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: argo-demo
-        image: aartread/argo-demo:v2
+        image: aartread/argo-demo:v1
         ports:
         - containerPort: 80
